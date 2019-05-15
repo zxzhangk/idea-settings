@@ -1,0 +1,62 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="$TranslateAndReplace">
+    <keyboard-shortcut first-keystroke="alt r" second-keystroke="alt r" />
+  </action>
+  <action id="$TranslateTextComponent" />
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
+  <action id="ChangesView.Diff" />
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f4" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="DatabaseView.Ddl.AddTable">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="DatabaseView.Tools.TruncateTableAction">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.UpdatedFiles" />
+  <action id="Editor TranslateAndReplace">
+    <keyboard-shortcut first-keystroke="alt r" second-keystroke="alt r" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="Git.Configure.Remotes">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="Git.Merge">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="Gsonformat" />
+  <action id="Maven.ExecuteGoal">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="Maven.Reimport">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="shift o" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
+  <action id="WebServicesPlugin.CreateRESTClient">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="openAssertEqualsDiff" />
+</keymap>

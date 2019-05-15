@@ -1,0 +1,18 @@
+<scheme name="Darcula_my" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="modified">2017-05-18T11:08:03</property>
+    <property name="rainbow Default language">true</property>
+  </metaInfo>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="YaHei Consolas Hybrid" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="YaHei Consolas Hybrid" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
+</scheme>
