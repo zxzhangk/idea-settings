@@ -25,6 +25,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Branches...">
+        <Item>
+          <IdeaActionID>Git.Branches</IdeaActionID>
+          <ShortCut>'Alt+B'</ShortCut>
+          <Description>Branches...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Close All">
         <Item>
           <IdeaActionID>CloseAllEditors</IdeaActionID>
@@ -158,7 +166,7 @@
           <IdeaActionID>OpenFile</IdeaActionID>
           <ShortCut>'Shift+O'</ShortCut>
           <Description>Open...</Description>
-          <Count>195</Count>
+          <Count>198</Count>
         </Item>
       </Statistic>
       <Statistic Action="Package">
