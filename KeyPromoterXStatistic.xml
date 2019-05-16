@@ -14,7 +14,7 @@
           <IdeaActionID>Annotate</IdeaActionID>
           <ShortCut>'Alt+Z'</ShortCut>
           <Description>Annotate</Description>
-          <Count>245</Count>
+          <Count>247</Count>
         </Item>
       </Statistic>
       <Statistic Action="Back">
@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>549</Count>
+          <Count>552</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -166,7 +166,7 @@
           <IdeaActionID>OpenFile</IdeaActionID>
           <ShortCut>'Shift+O'</ShortCut>
           <Description>Open...</Description>
-          <Count>200</Count>
+          <Count>201</Count>
         </Item>
       </Statistic>
       <Statistic Action="Package">
@@ -310,7 +310,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'Solution.main()'</Description>
-          <Count>55</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'WhiteholeStatisticsApplication'">
