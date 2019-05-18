@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="catalogue" />
       <item value="拆分" />
       <item value="不正确" />
       <item value="闭合" />
@@ -34,7 +35,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
+        <entry key="CHINESE" value="5" />
         <entry key="ENGLISH" value="5" />
       </map>
     </option>
