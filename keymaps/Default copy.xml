@@ -51,7 +51,7 @@
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
   <action id="OpenFile">
-    <keyboard-shortcut first-keystroke="shift o" />
+    <keyboard-shortcut first-keystroke="shift alt o" />
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
