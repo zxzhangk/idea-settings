@@ -326,7 +326,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'Solution.main()'</Description>
-          <Count>94</Count>
+          <Count>97</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'WhiteholeStatisticsApplication'">
