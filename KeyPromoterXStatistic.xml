@@ -326,7 +326,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'Solution.main()'</Description>
-          <Count>97</Count>
+          <Count>102</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'WhiteholeStatisticsApplication'">
@@ -398,7 +398,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>228</Count>
+          <Count>229</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
