@@ -345,6 +345,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show Code Coverage Data">
+        <Item>
+          <IdeaActionID>SwitchCoverage</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+F6'</ShortCut>
+          <Description>Show Code Coverage Data</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show Dependencies...">
         <Item>
           <IdeaActionID>ShowUmlDiagram</IdeaActionID>
