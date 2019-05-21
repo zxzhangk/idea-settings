@@ -9,12 +9,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Analyze Current File">
+        <Item>
+          <IdeaActionID>FindBugs.CurrentFileAction</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+F'</ShortCut>
+          <Description>Analyze Current File</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Annotate">
         <Item>
           <IdeaActionID>Annotate</IdeaActionID>
           <ShortCut>'Alt+Z'</ShortCut>
           <Description>Annotate</Description>
-          <Count>267</Count>
+          <Count>291</Count>
         </Item>
       </Statistic>
       <Statistic Action="Back">
@@ -38,7 +46,7 @@
           <IdeaActionID>CloseAllEditors</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+F4'</ShortCut>
           <Description>Close All</Description>
-          <Count>50</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -78,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>596</Count>
+          <Count>602</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -110,6 +118,14 @@
           <IdeaActionID>ActivateFavoritesToolWindow</IdeaActionID>
           <ShortCut>'Alt+2'</ShortCut>
           <Description>Favorites</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find a matching string in the current analysis results.">
+        <Item>
+          <IdeaActionID>FindBugs.ShowQuickSearch</IdeaActionID>
+          <ShortCut>'Ctrl+F'</ShortCut>
+          <Description>Find a matching string in the current analysis results.</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -294,7 +310,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -391,6 +407,14 @@
           <ShortCut>'Ctrl+NumPad +' or 'Ctrl+='</ShortCut>
           <Description>Zoom In</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="编码规约扫描">
+        <Item>
+          <IdeaActionID>AliP3CInspectionAction</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+J'</ShortCut>
+          <Description>编码规约扫描</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
     </option>

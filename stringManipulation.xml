@@ -5,6 +5,11 @@
         <option name="actionsExecuted" value="1" />
       </DonationNagger>
     </option>
+    <option name="sortSettings">
+      <SortSettings>
+        <option name="collatorLanguageTag" value="zh_CN" />
+      </SortSettings>
+    </option>
     <option name="version" value="1" />
   </component>
 </application>
