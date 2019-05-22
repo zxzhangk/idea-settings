@@ -182,7 +182,7 @@
           <IdeaActionID>OpenFile</IdeaActionID>
           <ShortCut>'Shift+O'</ShortCut>
           <Description>Open...</Description>
-          <Count>211</Count>
+          <Count>212</Count>
         </Item>
       </Statistic>
       <Statistic Action="Package">
