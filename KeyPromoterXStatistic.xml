@@ -142,7 +142,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Java Class">
@@ -182,7 +182,7 @@
           <IdeaActionID>OpenFile</IdeaActionID>
           <ShortCut>'Shift+O'</ShortCut>
           <Description>Open...</Description>
-          <Count>220</Count>
+          <Count>221</Count>
         </Item>
       </Statistic>
       <Statistic Action="Package">
@@ -206,7 +206,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>140</Count>
+          <Count>141</Count>
         </Item>
       </Statistic>
       <Statistic Action="Redo">
@@ -414,7 +414,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>255</Count>
+          <Count>256</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
