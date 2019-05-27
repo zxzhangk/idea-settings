@@ -22,7 +22,7 @@
           <IdeaActionID>Annotate</IdeaActionID>
           <ShortCut>'Alt+Z'</ShortCut>
           <Description>Annotate</Description>
-          <Count>334</Count>
+          <Count>336</Count>
         </Item>
       </Statistic>
       <Statistic Action="Back">
@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>643</Count>
+          <Count>644</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
