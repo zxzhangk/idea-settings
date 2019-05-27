@@ -22,7 +22,7 @@
           <IdeaActionID>Annotate</IdeaActionID>
           <ShortCut>'Alt+Z'</ShortCut>
           <Description>Annotate</Description>
-          <Count>336</Count>
+          <Count>338</Count>
         </Item>
       </Statistic>
       <Statistic Action="Back">
@@ -46,7 +46,7 @@
           <IdeaActionID>CloseAllEditors</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+F4'</ShortCut>
           <Description>Close All</Description>
-          <Count>55</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -142,7 +142,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Java Class">
@@ -182,7 +182,7 @@
           <IdeaActionID>OpenFile</IdeaActionID>
           <ShortCut>'Shift+O'</ShortCut>
           <Description>Open...</Description>
-          <Count>224</Count>
+          <Count>225</Count>
         </Item>
       </Statistic>
       <Statistic Action="Package">
