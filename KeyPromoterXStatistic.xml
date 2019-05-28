@@ -38,7 +38,7 @@
           <IdeaActionID>Git.Branches</IdeaActionID>
           <ShortCut>'Alt+B'</ShortCut>
           <Description>Branches...</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close All">
@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>661</Count>
+          <Count>662</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
