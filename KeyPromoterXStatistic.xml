@@ -182,7 +182,7 @@
           <IdeaActionID>OpenFile</IdeaActionID>
           <ShortCut>'Shift+O'</ShortCut>
           <Description>Open...</Description>
-          <Count>225</Count>
+          <Count>226</Count>
         </Item>
       </Statistic>
       <Statistic Action="Package">
@@ -206,7 +206,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>146</Count>
+          <Count>147</Count>
         </Item>
       </Statistic>
       <Statistic Action="Redo">
