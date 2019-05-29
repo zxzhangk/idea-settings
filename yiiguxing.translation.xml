@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="替换" />
       <item value="不正确" />
       <item value="incorre" />
       <item value="存在的" />
@@ -42,23 +43,6 @@
         <entry key="CHINESE" value="6" />
         <entry key="ENGLISH" value="7" />
       </map>
-    </option>
-  </component>
-  <component name="Settings">
-    <option name="baiduTranslateSettings">
-      <app-key>
-        <option name="primaryLanguage" value="CHINESE" />
-      </app-key>
-    </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="false" />
-      </google-translate>
-    </option>
-    <option name="youdaoTranslateSettings">
-      <youdao-translate>
-        <option name="primaryLanguage" value="AUTO" />
-      </youdao-translate>
     </option>
   </component>
 </application>
