@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="文书实例" />
+      <item value="文书" />
+      <item value="Instrument" />
+      <item value="dossier" />
+      <item value="卷宗" />
       <item value="ReplaceWord" />
       <item value="替换" />
       <item value="不正确" />
@@ -41,8 +46,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
