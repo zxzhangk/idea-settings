@@ -46,7 +46,7 @@
           <IdeaActionID>CloseAllEditors</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+F4'</ShortCut>
           <Description>Close All</Description>
-          <Count>60</Count>
+          <Count>61</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>733</Count>
+          <Count>735</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -166,7 +166,7 @@
           <IdeaActionID>ExtractMethod</IdeaActionID>
           <ShortCut>'Ctrl+Alt+M'</ShortCut>
           <Description>Method...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move to Another Changelist...">
