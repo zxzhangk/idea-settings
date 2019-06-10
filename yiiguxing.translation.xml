@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="源路径" />
+      <item value="处理中" />
       <item value="Concurrent" />
       <item value="执行" />
       <item value="案件" />
@@ -51,7 +53,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="11" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
