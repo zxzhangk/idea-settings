@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="不正确" />
       <item value="地域" />
       <item value="低于" />
       <item value="拼接" />
@@ -19,7 +20,6 @@
       <item value="卷宗" />
       <item value="ReplaceWord" />
       <item value="替换" />
-      <item value="不正确" />
       <item value="incorre" />
       <item value="存在的" />
       <item value="存在d " />
