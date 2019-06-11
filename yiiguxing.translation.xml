@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="existence" />
+      <item value="存在" />
       <item value="不正确" />
       <item value="地域" />
       <item value="低于" />
@@ -23,7 +25,6 @@
       <item value="incorre" />
       <item value="存在的" />
       <item value="存在d " />
-      <item value="存在" />
       <item value="catalogue" />
       <item value="拆分" />
       <item value="闭合" />
@@ -50,11 +51,10 @@
       <item value="个人中心" />
       <item value="Verification rule" />
       <item value="校验规则" />
-      <item value="没有权限" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
+        <entry key="CHINESE" value="12" />
         <entry key="ENGLISH" value="12" />
       </map>
     </option>
