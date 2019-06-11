@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>778</Count>
+          <Count>780</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -102,7 +102,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>59</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute Maven Goal">
@@ -414,7 +414,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>322</Count>
+          <Count>324</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project">
