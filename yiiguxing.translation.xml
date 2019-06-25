@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="流程" />
       <item value="处理人" />
       <item value="续期" />
       <item value="回收" />
@@ -50,7 +51,6 @@
       <item value="defination" />
       <item value="数据编目" />
       <item value="编目" />
-      <item value="匹配" />
     </histories>
     <option name="languageScores">
       <map>
