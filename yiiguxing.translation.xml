@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="处理人" />
+      <item value="续期" />
+      <item value="回收" />
+      <item value="绑定流程" />
       <item value="缺失" />
       <item value="必要" />
       <item value="必须" />
@@ -47,10 +51,6 @@
       <item value="数据编目" />
       <item value="编目" />
       <item value="匹配" />
-      <item value="负数" />
-      <item value="精度" />
-      <item value="垂直" />
-      <item value="进位" />
     </histories>
     <option name="languageScores">
       <map>
