@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="缺失" />
+      <item value="必要" />
+      <item value="必须" />
       <item value="解析" />
       <item value="上架服务" />
       <item value="下架" />
@@ -48,9 +51,6 @@
       <item value="精度" />
       <item value="垂直" />
       <item value="进位" />
-      <item value="expires" />
-      <item value="duplicate" />
-      <item value="重复" />
     </histories>
     <option name="languageScores">
       <map>
