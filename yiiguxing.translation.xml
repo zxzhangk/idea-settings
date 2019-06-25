@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SHELVE" />
       <item value="流程" />
       <item value="处理人" />
       <item value="续期" />
@@ -50,11 +51,10 @@
       <item value="原始" />
       <item value="defination" />
       <item value="数据编目" />
-      <item value="编目" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
+        <entry key="CHINESE" value="15" />
         <entry key="ENGLISH" value="15" />
       </map>
     </option>
