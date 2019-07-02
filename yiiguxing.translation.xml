@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="遍历" />
+      <item value="第二" />
+      <item value="合并" />
       <item value="refactor" />
       <item value="feature" />
       <item value="功能模块" />
@@ -48,14 +51,11 @@
       <item value="ReplaceWord" />
       <item value="替换" />
       <item value="incorre" />
-      <item value="存在的" />
-      <item value="存在d " />
-      <item value="catalogue" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="ENGLISH" value="18" />
       </map>
     </option>
   </component>
