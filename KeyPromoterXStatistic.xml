@@ -22,7 +22,7 @@
           <IdeaActionID>Annotate</IdeaActionID>
           <ShortCut>'Alt+Z'</ShortCut>
           <Description>Annotate</Description>
-          <Count>430</Count>
+          <Count>434</Count>
         </Item>
       </Statistic>
       <Statistic Action="Back">
@@ -414,7 +414,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>44</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test RESTful Web Service">
