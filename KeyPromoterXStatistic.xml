@@ -102,7 +102,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>68</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute Maven Goal">
@@ -430,7 +430,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>369</Count>
+          <Count>375</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Delete Line">
