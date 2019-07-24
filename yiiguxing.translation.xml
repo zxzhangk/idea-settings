@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scheduler" />
+      <item value="schedule" />
       <item value="执行" />
       <item value="放弃" />
       <item value="结构" />
@@ -49,12 +51,10 @@
       <item value="解析" />
       <item value="上架服务" />
       <item value="下架" />
-      <item value="下家" />
-      <item value="slack" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
+        <entry key="CHINESE" value="25" />
         <entry key="ENGLISH" value="25" />
       </map>
     </option>
