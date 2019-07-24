@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="执行" />
       <item value="放弃" />
       <item value="结构" />
       <item value="后缀" />
@@ -50,7 +51,6 @@
       <item value="下架" />
       <item value="下家" />
       <item value="slack" />
-      <item value="利润" />
     </histories>
     <option name="languageScores">
       <map>
