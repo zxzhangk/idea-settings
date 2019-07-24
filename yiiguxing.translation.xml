@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cast" />
       <item value="自信的" />
       <item value="scheduler" />
       <item value="schedule" />
@@ -50,11 +51,10 @@
       <item value="必要" />
       <item value="必须" />
       <item value="解析" />
-      <item value="上架服务" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="25" />
+        <entry key="CHINESE" value="26" />
         <entry key="ENGLISH" value="26" />
       </map>
     </option>
