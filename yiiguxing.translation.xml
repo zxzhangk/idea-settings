@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="equivalent" />
+      <item value="retrieve" />
       <item value="priority" />
       <item value="exclusive" />
       <item value="表达式" />
@@ -49,8 +51,6 @@
       <item value="上架" />
       <item value="SHELVE" />
       <item value="流程" />
-      <item value="处理人" />
-      <item value="续期" />
     </histories>
     <option name="languageScores">
       <map>
