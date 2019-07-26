@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="表达式" />
       <item value="fail list" />
       <item value="batch" />
       <item value="摘要" />
@@ -50,12 +51,11 @@
       <item value="续期" />
       <item value="回收" />
       <item value="绑定流程" />
-      <item value="缺失" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="27" />
+        <entry key="ENGLISH" value="28" />
       </map>
     </option>
   </component>
