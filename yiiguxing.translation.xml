@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Quarter" />
+      <item value="季度" />
       <item value="scheduler" />
       <item value="inadequate" />
       <item value="不足" />
@@ -49,13 +51,11 @@
       <item value="第二" />
       <item value="合并" />
       <item value="refactor" />
-      <item value="feature" />
-      <item value="功能模块" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="CHINESE" value="31" />
+        <entry key="ENGLISH" value="31" />
       </map>
     </option>
   </component>
