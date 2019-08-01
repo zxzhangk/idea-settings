@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scheduler" />
       <item value="inadequate" />
       <item value="不足" />
       <item value="redundant" />
@@ -16,7 +17,6 @@
       <item value="摘要" />
       <item value="cast" />
       <item value="自信的" />
-      <item value="scheduler" />
       <item value="schedule" />
       <item value="执行" />
       <item value="放弃" />
