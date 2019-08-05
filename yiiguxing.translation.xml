@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="记录" />
+      <item value="通过" />
+      <item value="支持" />
       <item value="exist" />
       <item value="调度器" />
       <item value="调度气" />
@@ -48,14 +51,11 @@
       <item value="接收" />
       <item value="recive" />
       <item value="Schedul" />
-      <item value="调度" />
-      <item value="fetch" />
-      <item value="unstructure" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="ENGLISH" value="36" />
       </map>
     </option>
   </component>
