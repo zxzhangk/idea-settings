@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="超时时间" />
+      <item value="超时" />
       <item value="废弃" />
       <item value="future" />
       <item value="监听" />
@@ -49,8 +51,6 @@
       <item value="schedule" />
       <item value="执行" />
       <item value="放弃" />
-      <item value="结构" />
-      <item value="后缀" />
     </histories>
     <option name="languageScores">
       <map>
