@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="监听" />
+      <item value="守护" />
+      <item value="心跳" />
       <item value="记录" />
       <item value="通过" />
       <item value="支持" />
@@ -48,9 +51,6 @@
       <item value="后缀" />
       <item value="scheduling" />
       <item value="schedul" />
-      <item value="接收" />
-      <item value="recive" />
-      <item value="Schedul" />
     </histories>
     <option name="languageScores">
       <map>
