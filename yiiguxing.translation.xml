@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="提取" />
       <item value="维护" />
       <item value="超时时间" />
       <item value="超时" />
@@ -20,7 +21,6 @@
       <item value="相关的" />
       <item value="incremental" />
       <item value="increment" />
-      <item value="提取" />
       <item value="protests" />
       <item value="recent" />
       <item value="blatant" />
