@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="废弃" />
+      <item value="future" />
       <item value="监听" />
       <item value="守护" />
       <item value="心跳" />
@@ -49,13 +51,11 @@
       <item value="放弃" />
       <item value="结构" />
       <item value="后缀" />
-      <item value="scheduling" />
-      <item value="schedul" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="37" />
       </map>
     </option>
   </component>
