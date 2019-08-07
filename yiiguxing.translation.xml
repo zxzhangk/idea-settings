@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="wedrp" />
+      <item value="wetrp" />
+      <item value="warp" />
+      <item value="werp" />
+      <item value="wearp" />
       <item value="提取" />
       <item value="维护" />
       <item value="超时时间" />
@@ -46,15 +51,10 @@
       <item value="表达式" />
       <item value="fail list" />
       <item value="batch" />
-      <item value="摘要" />
-      <item value="cast" />
-      <item value="自信的" />
-      <item value="schedule" />
-      <item value="执行" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
+        <entry key="CHINESE" value="37" />
         <entry key="ENGLISH" value="37" />
       </map>
     </option>
