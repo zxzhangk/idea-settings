@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="前面" />
+      <item value="顺序" />
       <item value="wedrp" />
       <item value="wetrp" />
       <item value="warp" />
@@ -49,13 +51,11 @@
       <item value="priority" />
       <item value="exclusive" />
       <item value="表达式" />
-      <item value="fail list" />
-      <item value="batch" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="ENGLISH" value="38" />
       </map>
     </option>
   </component>
