@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="position" />
       <item value="Lineage " />
       <item value="数据血缘" />
       <item value="consanguinity" />
@@ -50,7 +51,6 @@
       <item value="Quarter" />
       <item value="季度" />
       <item value="scheduler" />
-      <item value="inadequate" />
     </histories>
     <option name="languageScores">
       <map>
