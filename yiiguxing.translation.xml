@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="解析" />
       <item value="field" />
       <item value="lineage" />
       <item value="without" />
@@ -50,12 +51,11 @@
       <item value="ministry" />
       <item value="relevant" />
       <item value="relebant" />
-      <item value="同时" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="ENGLISH" value="41" />
       </map>
     </option>
   </component>
