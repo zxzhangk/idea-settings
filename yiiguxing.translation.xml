@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="position" />
       <item value="解析" />
       <item value="field" />
       <item value="lineage" />
       <item value="without" />
-      <item value="position" />
       <item value="Lineage " />
       <item value="数据血缘" />
       <item value="consanguinity" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
+        <entry key="CHINESE" value="41" />
         <entry key="ENGLISH" value="41" />
       </map>
     </option>
