@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="进程" />
+      <item value="组件" />
+      <item value="compoent" />
+      <item value="原始数据" />
       <item value="comment" />
       <item value="position" />
       <item value="解析" />
@@ -47,15 +51,11 @@
       <item value="recent" />
       <item value="blatant" />
       <item value="transit" />
-      <item value="residents" />
-      <item value="suspend" />
-      <item value="ministry" />
-      <item value="relevant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
       </map>
     </option>
   </component>
