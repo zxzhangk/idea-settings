@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="皮鞭" />
+      <item value="鞭子" />
+      <item value="中立的" />
       <item value="前置机" />
       <item value="clarity" />
       <item value="correctness" />
@@ -48,9 +51,6 @@
       <item value="定时器" />
       <item value="violated " />
       <item value="相关的" />
-      <item value="incremental" />
-      <item value="increment" />
-      <item value="protests" />
     </histories>
     <option name="languageScores">
       <map>
