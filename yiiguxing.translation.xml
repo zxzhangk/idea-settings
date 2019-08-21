@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enemy" />
+      <item value="alleged" />
       <item value="preseted" />
       <item value="erase" />
       <item value="皮鞭" />
@@ -49,8 +51,6 @@
       <item value="支持" />
       <item value="exist" />
       <item value="调度器" />
-      <item value="调度气" />
-      <item value="定时器" />
     </histories>
     <option name="languageScores">
       <map>
