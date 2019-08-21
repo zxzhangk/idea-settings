@@ -1,7 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="perspective" />
+      <item value="despite" />
       <item value="bourgeois" />
+      <item value="colonists" />
       <item value="enemy" />
       <item value="alleged" />
       <item value="preseted" />
@@ -48,9 +51,6 @@
       <item value="守护" />
       <item value="心跳" />
       <item value="记录" />
-      <item value="通过" />
-      <item value="支持" />
-      <item value="exist" />
     </histories>
     <option name="languageScores">
       <map>
