@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inventory" />
       <item value="consumed " />
       <item value="dilute " />
       <item value="affected " />
@@ -50,7 +51,6 @@
       <item value="wedrp" />
       <item value="wetrp" />
       <item value="warp" />
-      <item value="werp" />
     </histories>
     <option name="languageScores">
       <map>
