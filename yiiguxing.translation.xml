@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="recreate" />
       <item value="屏蔽" />
       <item value="trifle" />
       <item value="prior" />
@@ -50,11 +51,10 @@
       <item value="enemy" />
       <item value="alleged" />
       <item value="preseted" />
-      <item value="erase" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
+        <entry key="CHINESE" value="45" />
         <entry key="ENGLISH" value="45" />
       </map>
     </option>
