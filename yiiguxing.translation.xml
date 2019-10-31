@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="issued" />
+      <item value="issue" />
       <item value="deluxe" />
       <item value="luxurious" />
       <item value="hostel" />
@@ -49,8 +51,6 @@
       <item value="enhances" />
       <item value="excellence" />
       <item value="indefinitely" />
-      <item value="sponsors" />
-      <item value="sustainable" />
     </histories>
     <option name="languageScores">
       <map>
