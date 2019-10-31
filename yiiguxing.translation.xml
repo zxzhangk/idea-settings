@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="advance" />
+      <item value="roof" />
+      <item value="embassy" />
       <item value="issued" />
       <item value="issue" />
       <item value="deluxe" />
@@ -48,9 +51,6 @@
       <item value="essential'" />
       <item value="amount" />
       <item value="simplicity" />
-      <item value="enhances" />
-      <item value="excellence" />
-      <item value="indefinitely" />
     </histories>
     <option name="languageScores">
       <map>
