@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="place" />
       <item value="advance" />
       <item value="roof" />
       <item value="embassy" />
@@ -50,7 +51,6 @@
       <item value="essential" />
       <item value="essential'" />
       <item value="amount" />
-      <item value="simplicity" />
     </histories>
     <option name="languageScores">
       <map>
