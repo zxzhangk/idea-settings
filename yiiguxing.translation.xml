@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="profit" />
       <item value="column" />
       <item value="place" />
       <item value="advance" />
@@ -50,7 +51,6 @@
       <item value="drill" />
       <item value="architectures" />
       <item value="essential" />
-      <item value="essential'" />
     </histories>
     <option name="languageScores">
       <map>
