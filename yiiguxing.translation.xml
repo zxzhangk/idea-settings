@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="authentication" />
+      <item value="过期" />
+      <item value="requirement" />
+      <item value="需求" />
+      <item value="秘密" />
+      <item value="鉴权" />
       <item value="authenticate" />
       <item value="认证" />
+      <item value="authentication" />
       <item value="track" />
       <item value="provoke" />
       <item value="dissertation" />
@@ -46,16 +51,11 @@
       <item value="minority" />
       <item value="desperate " />
       <item value="discern" />
-      <item value="destabilizing" />
-      <item value="achieved " />
-      <item value="brother-in-law" />
-      <item value="previous generation." />
-      <item value="brainer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
       </map>
     </option>
   </component>
