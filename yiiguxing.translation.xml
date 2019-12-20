@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="proportion" />
+      <item value="占比proportion" />
+      <item value="占比" />
       <item value="infrequently" />
       <item value="虚拟" />
       <item value="bush" />
@@ -48,14 +51,11 @@
       <item value="多余的" />
       <item value="定义" />
       <item value="tackle" />
-      <item value="states" />
-      <item value="yusuf" />
-      <item value="equivalent " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="56" />
       </map>
     </option>
   </component>
