@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="递归" />
       <item value="温度" />
       <item value="设备" />
       <item value="监听" />
@@ -50,7 +51,6 @@
       <item value="mixup" />
       <item value="Complaining" />
       <item value="维度" />
-      <item value="周期" />
     </histories>
     <option name="languageScores">
       <map>
