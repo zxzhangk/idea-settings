@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="related" />
+      <item value="关联" />
       <item value="instruction" />
       <item value="toy" />
       <item value="batteries" />
@@ -49,13 +51,11 @@
       <item value="issued" />
       <item value="issue" />
       <item value="deluxe" />
-      <item value="luxurious" />
-      <item value="hostel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="59" />
       </map>
     </option>
   </component>
