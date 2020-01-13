@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sleep" />
+      <item value="synonym" />
+      <item value=" charm" />
+      <item value="endless" />
+      <item value="endless charm" />
+      <item value="charm" />
       <item value="related" />
       <item value="关联" />
       <item value="instruction" />
@@ -45,12 +51,6 @@
       <item value="profit" />
       <item value="column" />
       <item value="place" />
-      <item value="advance" />
-      <item value="roof" />
-      <item value="embassy" />
-      <item value="issued" />
-      <item value="issue" />
-      <item value="deluxe" />
     </histories>
     <option name="languageScores">
       <map>
