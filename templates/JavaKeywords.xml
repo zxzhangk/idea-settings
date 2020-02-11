@@ -1,0 +1,20 @@
+<templateSet group="JavaKeywords">
+  <template name="syso" value="System.out.println($cursor$);" description="System.out.println();" toReformat="false" toShortenFQNames="true">
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="main" value="public static void main(String[] args) {&#10;    $cursor$&#10;}" description="main function" toReformat="false" toShortenFQNames="true">
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="builder" value="public static Builder builder() {&#10;    return new Builder();&#10;}&#10;&#10;public static class Builder {&#10;    &#10;}" description="generate builder" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
