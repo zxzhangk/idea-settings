@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="试用期" />
+      <item value="试用" />
+      <item value="的" />
       <item value="生成" />
       <item value="salt" />
       <item value="sample" />
@@ -48,9 +51,6 @@
       <item value="aim" />
       <item value="passage" />
       <item value="comment" />
-      <item value="名义上的" />
-      <item value="affect" />
-      <item value="effect" />
     </histories>
     <option name="languageScores">
       <map>
