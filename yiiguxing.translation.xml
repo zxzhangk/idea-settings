@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="env file created." />
       <item value="试用期" />
       <item value="试用" />
       <item value="的" />
@@ -50,11 +51,10 @@
       <item value="conclusion" />
       <item value="aim" />
       <item value="passage" />
-      <item value="comment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
+        <entry key="CHINESE" value="60" />
         <entry key="ENGLISH" value="60" />
       </map>
     </option>
