@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="probation expired" />
+      <item value="试用到期" />
       <item value="env file created." />
       <item value="试用期" />
       <item value="试用" />
@@ -49,13 +51,11 @@
       <item value="dissertation" />
       <item value="draft" />
       <item value="conclusion" />
-      <item value="aim" />
-      <item value="passage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="61" />
       </map>
     </option>
   </component>
