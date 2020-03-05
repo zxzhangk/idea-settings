@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="生成" />
+      <item value="salt" />
       <item value="sample" />
       <item value="sleep" />
       <item value="synonym" />
@@ -49,13 +51,11 @@
       <item value="名义上的" />
       <item value="affect" />
       <item value="effect" />
-      <item value="profit" />
-      <item value="column" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="ENGLISH" value="60" />
       </map>
     </option>
   </component>
