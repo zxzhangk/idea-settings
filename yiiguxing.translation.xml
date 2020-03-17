@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="递归" />
       <item value="同乡" />
       <item value="feminism" />
       <item value="correctness" />
@@ -28,7 +29,6 @@
       <item value="instruction" />
       <item value="toy" />
       <item value="batteries" />
-      <item value="递归" />
       <item value="温度" />
       <item value="设备" />
       <item value="监听" />
