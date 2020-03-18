@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="declaration" />
+      <item value="声明'" />
+      <item value="声明" />
+      <item value="declear" />
       <item value="参考" />
       <item value="参照" />
       <item value="递归" />
@@ -47,15 +51,11 @@
       <item value="grilled" />
       <item value="无用的" />
       <item value="frame" />
-      <item value="过期" />
-      <item value="requirement" />
-      <item value="需求" />
-      <item value="秘密" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="64" />
       </map>
     </option>
   </component>
