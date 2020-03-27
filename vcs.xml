@@ -14,6 +14,10 @@
           <option name="url" value="http://git.oschina.net" />
           <option name="userName" value="664640877@qq.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://172.20.2.144" />
+          <option name="userName" value="menghongyang@chinacloud.com.cn" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
