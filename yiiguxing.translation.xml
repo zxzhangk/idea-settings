@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="purge" />
       <item value="执行顺序" />
       <item value="继续" />
       <item value="fire" />
@@ -50,11 +51,10 @@
       <item value="sample" />
       <item value="sleep" />
       <item value="synonym" />
-      <item value=" charm" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
+        <entry key="CHINESE" value="70" />
         <entry key="ENGLISH" value="70" />
       </map>
     </option>
