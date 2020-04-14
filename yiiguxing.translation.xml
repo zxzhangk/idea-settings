@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="分布式锁" />
       <item value="purge" />
       <item value="执行顺序" />
       <item value="继续" />
@@ -50,12 +51,11 @@
       <item value="salt" />
       <item value="sample" />
       <item value="sleep" />
-      <item value="synonym" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="70" />
+        <entry key="ENGLISH" value="71" />
       </map>
     </option>
   </component>
