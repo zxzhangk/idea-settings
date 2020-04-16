@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="全局" />
       <item value="状态机" />
       <item value="分布式锁" />
       <item value="purge" />
@@ -50,7 +51,6 @@
       <item value="的" />
       <item value="生成" />
       <item value="salt" />
-      <item value="sample" />
     </histories>
     <option name="languageScores">
       <map>
