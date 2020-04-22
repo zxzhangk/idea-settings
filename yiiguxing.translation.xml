@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Lettuce" />
       <item value="冲突" />
       <item value="重复" />
       <item value="complement" />
@@ -50,11 +51,10 @@
       <item value="试用到期" />
       <item value="env file created." />
       <item value="试用期" />
-      <item value="试用" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
+        <entry key="CHINESE" value="72" />
         <entry key="ENGLISH" value="72" />
       </map>
     </option>
