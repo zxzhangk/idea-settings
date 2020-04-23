@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="seaze" />
+      <item value="snapshot" />
+      <item value="snap" />
+      <item value="抢占" />
+      <item value="preoccupy" />
+      <item value="占用" />
+      <item value="预占用" />
+      <item value="虚拟" />
+      <item value="配额" />
+      <item value="quote" />
       <item value="Lettuce" />
       <item value="冲突" />
       <item value="重复" />
@@ -41,21 +51,11 @@
       <item value="参照" />
       <item value="递归" />
       <item value="同乡" />
-      <item value="feminism" />
-      <item value="correctness" />
-      <item value="tradeoff" />
-      <item value="entrant" />
-      <item value="reentrant" />
-      <item value="机器" />
-      <item value="probation expired" />
-      <item value="试用到期" />
-      <item value="env file created." />
-      <item value="试用期" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="74" />
+        <entry key="ENGLISH" value="74" />
       </map>
     </option>
   </component>
