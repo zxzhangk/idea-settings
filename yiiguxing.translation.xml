@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="先前的" />
+      <item value="processing" />
+      <item value="process" />
       <item value="seaze" />
       <item value="snapshot" />
       <item value="snap" />
@@ -48,14 +51,11 @@
       <item value="声明" />
       <item value="declear" />
       <item value="参考" />
-      <item value="参照" />
-      <item value="递归" />
-      <item value="同乡" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="74" />
-        <entry key="ENGLISH" value="74" />
+        <entry key="ENGLISH" value="75" />
       </map>
     </option>
   </component>
