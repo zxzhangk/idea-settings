@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="binary" />
+      <item value="allocation" />
+      <item value="分配" />
       <item value="物理删除" />
       <item value="逻辑删除" />
       <item value="先前的" />
@@ -48,13 +51,10 @@
       <item value="if true use corePoolSize as bound" />
       <item value="supplement" />
       <item value="位置" />
-      <item value="declaration" />
-      <item value="声明'" />
-      <item value="声明" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
+        <entry key="CHINESE" value="75" />
         <entry key="ENGLISH" value="75" />
       </map>
     </option>
