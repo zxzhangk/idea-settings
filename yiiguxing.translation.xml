@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="缓冲" />
       <item value="binary" />
       <item value="allocation" />
       <item value="分配" />
@@ -50,12 +51,11 @@
       <item value="公场" />
       <item value="if true use corePoolSize as bound" />
       <item value="supplement" />
-      <item value="位置" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="ENGLISH" value="76" />
       </map>
     </option>
   </component>
