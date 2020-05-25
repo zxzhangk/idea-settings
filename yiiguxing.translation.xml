@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="活动" />
+      <item value="流程" />
       <item value="跳过" />
       <item value="缓冲" />
       <item value="binary" />
@@ -49,8 +51,6 @@
       <item value="TIDYING" />
       <item value="provision" />
       <item value="工厂" />
-      <item value="公场" />
-      <item value="if true use corePoolSize as bound" />
     </histories>
     <option name="languageScores">
       <map>
