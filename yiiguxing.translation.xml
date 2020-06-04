@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="feign" />
       <item value="活动" />
       <item value="流程" />
       <item value="跳过" />
@@ -50,11 +51,10 @@
       <item value="联调" />
       <item value="TIDYING" />
       <item value="provision" />
-      <item value="工厂" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
+        <entry key="CHINESE" value="76" />
         <entry key="ENGLISH" value="76" />
       </map>
     </option>
