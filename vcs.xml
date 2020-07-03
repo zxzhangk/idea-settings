@@ -18,6 +18,10 @@
           <option name="url" value="http://172.20.2.144" />
           <option name="userName" value="menghongyang@chinacloud.com.cn" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://tools.bigcloudsys.cn" />
+          <option name="userName" value="zhangzhixian@cmii.chinamobile.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
